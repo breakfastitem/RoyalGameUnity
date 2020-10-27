@@ -31,11 +31,11 @@ The following images are screen shots of the two scenes contianed in the game.
 
 ### Menu
 
-![menu-image] (./Img/MenuImage.jpg)
+![menu-image](./Img/MenuImage.jpg)
 
 ### Board
 
-![ur-image] (./Img/UrImage.png)
+![ur-image](./Img/UrImage.png)
 
 ## Installation
 This program is created with the Unity engine. For editing, Create a new unity project and copy repository files into base folder. Remove the zip file.
