@@ -3,7 +3,7 @@
 ## Table of Contents
 [Description](#description)
 
-[ScreenShots] (#screenshots)
+[ScreenShots] (#Screenshots)
 
 [Installation](#installation)
 
@@ -29,13 +29,13 @@ Arrow Keys control camera.
 Click on piece to move it after roll.
 W and D Keys Zoom in and out.
 
-## ScreenShots
+## Screenshots
 The following images are screen shots of the two scenes contianed in the game.
 
 ### Menu
-![menu-image] (./ReadmeImg/MenuImage)
+![menu-image] (./ReadmeImg/MenuImage.jpg)
 ### Board
-![ur-image] (./ReadmeImg/UrImage)
+![ur-image] (./ReadmeImg/UrImage.jpg)
 
 ## Installation
 This program is created with the Unity engine. For editing, Create a new unity project and copy repository files into base folder. Remove the zip file.
