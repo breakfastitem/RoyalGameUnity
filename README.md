@@ -30,8 +30,11 @@ W and D Keys Zoom in and out.
 The following images are screen shots of the two scenes contianed in the game.
 
 ### Menu
+
 ![menu-image] (./Img/MenuImage.jpg)
+
 ### Board
+
 ![ur-image] (./Img/UrImage.png)
 
 ## Installation
