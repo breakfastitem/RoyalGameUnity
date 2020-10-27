@@ -1,5 +1,17 @@
 # RoyalGameUnity
 
+## Table of Contents
+[Description](#description)
+
+[ScreenShots] (#screenshots)
+
+[Installation](#installation)
+
+[Usage](#usage)
+
+[Credits](#credits)
+
+
 ## Description
 This is project is an implementation of the Royal Game Of Ur the oldest known board game dating back to mesopotamia 
 https://en.wikipedia.org/wiki/Royal_Game_of_Ur. This was accomplished with the unity engine and c# scripts to manipulate the game objects. This project was created mainly to learn how to use the Unity Engine.
@@ -18,11 +30,15 @@ Click on piece to move it after roll.
 W and D Keys Zoom in and out.
 
 ## ScreenShots
+The following images are screen shots of the two scenes contianed in the game.
+
 ### Menu
+![menu-image] (./ReadmeImg/MenuImage)
 ### Board
+![ur-image] (./ReadmeImg/UrImage)
 
 ## Installation
-For editing, Create a new unity project and copy repository files into base folder.
+This program is created with the Unity engine. For editing, Create a new unity project and copy repository files into base folder. Remove the zip file.
 
 ## Usage
 For usage, The royal game zip file in the repository contains the exe.
