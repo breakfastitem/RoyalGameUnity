@@ -39,9 +39,11 @@ The following images are screen shots of the two scenes contianed in the game.
 
 ## Installation
 This program is created with the Unity engine. For editing, Create a new unity project and copy repository files into base folder. Remove the zip file.
+For usage download the royalgame zip file in the repository that contains the exe.
+
 
 ## Usage
-For usage, The royal game zip file in the repository contains the exe.
+run the exe or edit the project through unity.
 
 ## Credits
 
